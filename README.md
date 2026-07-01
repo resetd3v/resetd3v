@@ -10,7 +10,8 @@ I believe in proactive practices in security and defensive protection, which I a
 
 Providing software solutions, networking and modifications to a technical and non-technical userbase with a full development SDK
 
-I provide - IaaS, Backend, Client and Protection systems alongside full observability and custom internal tooling across multiple release channels. I work with and against our technical users, constantly iterating our security methodology. As apart of this project I developed a full CI/CD pipeline that facilitates the containerised build of unique/personally identifiable tagged builds. The codebase is designed to be as modular and verbose as possible for easy issue triage and development workflow.
+I provide - IaaS, Backend, Client and Protection systems.\
+Alongside full observability, custom internal tooling and a custom CI/CD pipeline across multiple release channels.
 
 ### <img src="https://confusing.wtf/assets/img/overkill-temp.ico" alt="Overkill Logo" height="24"/> | [Overkill (private)](https://overkill.sh)
 
